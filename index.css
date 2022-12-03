@@ -1,0 +1,144 @@
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.nav-bar {
+  width: 99%;
+  margin: 2px 2px 5px 4px;
+}
+
+.nav-menu {
+  list-style: none;
+  height: 50px;
+  align-items: center;
+  border: 1px solid black;
+  align-self: center;
+}
+
+#logo {
+  margin: 15px 0 0 0;
+  cursor: pointer;
+}
+
+.nav-menu a {
+  text-decoration: none;
+  float: right;
+  margin: -15px 20px 0 0;
+  color: black;
+}
+
+.nav-menu a:active {
+  color: blue;
+}
+
+.nav-menu a:hover {
+  color: blue;
+}
+
+#date {
+  margin-left: 64%;
+  margin-bottom: 70px;
+}
+
+#section {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.book-line {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 8px;
+  align-items: baseline;
+}
+
+.body-1 {
+  border: 2px solid black;
+  margin-bottom: 30px;
+}
+
+.remove {
+  width: fit-content;
+  padding: 5px;
+  margin: 0;
+  height: 30px;
+  text-align: center;
+  box-shadow: 3px 5px black;
+}
+
+.blue {
+  background-color: rgb(187, 187, 189);
+}
+
+.hre {
+  width: 1px;
+  background-color: black;
+  height: 20px;
+  display: inline;
+  margin: 0 0 0 14px;
+}
+
+#form {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+#author,
+#title {
+  padding: 15px 0;
+}
+
+#btn {
+  align-self: flex-end;
+  width: fit-content;
+  padding: 5px 20px;
+  box-shadow: 3px 5px black;
+}
+
+.heading {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+footer {
+  border: 1px solid black;
+  margin: 2px 2px 5px 4px;
+  bottom: 0;
+  width: 97%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.add {
+  display: none;
+}
+
+.contact {
+  display: none;
+}
+
+.book {
+  display: none;
+}
+
+#con.active {
+  color: blue;
+}
+
+#new.active {
+  color: blue;
+}
+#lis.active {
+  color: blue;
+}
