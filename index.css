@@ -43,7 +43,7 @@ body {
 }
 
 #date {
-  margin-left: 64%;
+  margin-left: 87%;
   margin-bottom: 70px;
 }
 
@@ -139,6 +139,7 @@ footer {
 #new.active {
   color: blue;
 }
+
 #lis.active {
   color: blue;
 }

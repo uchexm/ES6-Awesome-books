@@ -1,3 +1,5 @@
+/* eslint-disable quotes */
+/* eslint-disable max-classes-per-file */
 export class Bookdata {
   constructor(id, title, author) {
     this.Id = id;

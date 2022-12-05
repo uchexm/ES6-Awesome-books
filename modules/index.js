@@ -1,8 +1,10 @@
+/* eslint-disable quotes */
 import { Date } from "./dates.js";
 import * as sec from "./events.js";
 import * as scrip from "./script.js";
 
 // eslint-disable-next-line max-classes-per-file
+
 const bookstore = new scrip.Books();
 
 if (localStorage.getItem("books")) {
