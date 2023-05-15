@@ -169,7 +169,7 @@ Uchechi Nwaka
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome.
 
 Feel free to check the [issues page](../../issues/)
 
