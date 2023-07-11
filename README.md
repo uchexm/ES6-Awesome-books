@@ -45,10 +45,9 @@ Awesome-books project is a basic website that allows users to add/remove books f
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-**Add_Books**
-**Remove_Books**
-**Store_Books**
+- [Add Books]
+- [Remove Books]
+  [Read Books]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,15 +59,6 @@ Awesome-books project is a basic website that allows users to add/remove books f
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-$ git clone https://github.com/uchexm/Awesome-Books
-
-$ cd Awesome-books
-
-Then open index.html on the bowser to run the project
 
 ### Prerequisites
 
