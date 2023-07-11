@@ -20,7 +20,7 @@
 
 ## 📖 Awesome Books <a name="about-project"></a>
 
-Awesome-books project is a basic website that allows users to add/remove books from a list. It showcases the use of JavaScript objects and arrays to dynamically modify the DOM and add basic events.
+The **Awesome-books** project is a website that demonstrates the use of JavaScript objects and arrays to dynamically modify the Document Object Model (DOM) and handle `CRUD` events. The purpose of the website is to enable users to manage a list of books they like by adding or removing them, by utilizing JavaScript objects, arrays, DOM manipulation, and event handling, the Awesome-books project provides users with a simple yet interactive website for managing their book lists. It demonstrates the fundamentals of dynamically modifying web content and showcases the capabilities of JavaScript in creating interactive web applications.
 
 ## 🛠 Built With <a name="built-with"></a>
 
