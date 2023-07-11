@@ -63,9 +63,9 @@ Awesome-books project is a basic website that allows users to add/remove books f
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-cd my-folder
-$ git clone git@github.com:uchexm/ES6-Awesome-books.git
-$ cd Awesome-books
+- cd my-folder
+- $ git clone git@github.com:uchexm/ES6-Awesome-books.git
+- $ cd Awesome-books
 
 Then open index.html on the bowser to run the project
 
