@@ -1,36 +1,3 @@
-<a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Author
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-
-  <img src="./images/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -51,9 +18,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Awesome Books] <a name="about-project"></a>
+# [📖 Awesome Books] <a name="about-project"></a>
 
-Awesome-books project is a basic website that allows users to add/remove books from a list. It showcases the use of JavaScript objects and arrays to dynamically modify the DOM and add basic events..
+Awesome-books project is a basic website that allows users to add/remove books from a list. It showcases the use of JavaScript objects and arrays to dynamically modify the DOM and add basic events.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -79,9 +46,9 @@ Awesome-books project is a basic website that allows users to add/remove books f
 
 ### Key Features <a name="key-features"></a>
 
-- **[Add_Books]**
-- **[Remove_Books]**
-- **[Store_Books]**
+**Add_Books**
+**Remove_Books**
+**Store_Books**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,7 +92,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:uchexm/ES6-Awesome-books.git
 ```
 --->
 
@@ -153,15 +120,15 @@ Example:
 
 IRADUKUNDA Pacific Rugwizangoga
 
-- GitHub: [@githubhandle](https://github.com/rugwizangoga)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/iradukunda-pacific-rugwizangoga)
+- [GitHub](https://github.com/rugwizangoga)
+- [LinkedIn](https://www.linkedin.com/in/iradukunda-pacific-rugwizangoga)
 
 👤 **Author2**
 
 Uchechi Nwaka
 
-- GitHub: [@githubhandle](https://github.com/uchexm)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/uchechi-nwaka-79a21a75/)
+- [GitHub](https://github.com/uchexm)
+- [LinkedIn](https://www.linkedin.com/in/uchechi-nwaka-79a21a75/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
