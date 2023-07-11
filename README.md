@@ -18,7 +18,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# [📖 Awesome Books] <a name="about-project"></a>
+## 📖 Awesome Books <a name="about-project"></a>
 
 Awesome-books project is a basic website that allows users to add/remove books from a list. It showcases the use of JavaScript objects and arrays to dynamically modify the DOM and add basic events.
 
@@ -45,9 +45,9 @@ Awesome-books project is a basic website that allows users to add/remove books f
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- [Add Books]
-- [Remove Books]
-  [Read Books]
+- Add Books
+- Remove Books
+- Read Books
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
